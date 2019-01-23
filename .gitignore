@@ -5,4 +5,5 @@ html
 build
 .idea
 __pycache__
+munkres.egg-info/
 
