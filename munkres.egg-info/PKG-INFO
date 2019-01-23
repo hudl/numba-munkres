@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: munkres
+Version: 1.1.1
+Summary: Munkres implemented in c++ wrapped by cython
+Home-page: https://github.com/jfrelinger/cython-munkres-wrapper
+Author: Jacob Frelinger
+Author-email: jacob.frelinger@duke.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

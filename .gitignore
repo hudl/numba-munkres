@@ -1,0 +1,8 @@
+*.pyc
+MANIFEST
+dist
+html
+build
+.idea
+__pycache__
+
